@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mishra-anubhav
 - 👀 I’m interested in problem solving, coding stuff and product management roles.
 - 🌱 I’m currently learning Python and mastering skills for product management.
-- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 You can reach me via Linkdin - https://www.linkedin.com/in/anubhavmishra271/
 
 <!---
