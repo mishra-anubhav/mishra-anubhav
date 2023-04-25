@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anubhav Mishra, currently pursuing Masters from New York University.
-- 👀 I’m interested in problem solving, coding stuff and product management roles.
+- 👀 I’m interested in problem solving, coding, product management and design.
 - 🌱 I’m currently learning Python and mastering skills for product management.
 - 📫 You can reach me via Linkdin - https://www.linkedin.com/in/anubhavmishra271/
 
