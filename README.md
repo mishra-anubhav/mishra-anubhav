@@ -6,7 +6,7 @@
  # Full Stack Projects: 
 
 - [NUMBER-SCRAMBLER](https://mishra-anubhav.github.io/Number-Scrambler/)
-- Tribute to Mahatma Gandhi: https://codepen.io/mishra-anubhav/full/wvwpbdB
+- [Tribute to Mahatma Gandhi:](https://codepen.io/mishra-anubhav/full/wvwpbdB)
 - [Tetris](https://mishra-anubhav.github.io/JavaScript-Tetris/)
 - <a href="https://mishra-anubhav.github.io/Universities-Report/university-nyu.html">NYU University</a><br>
 - <a href="https://mishra-anubhav.github.io/Universities-Report/University-columbia.html">Columbia University</a><br>
