@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and mastering skills for data analysis.
 - 📫 You can reach me via Linkdin - https://www.linkedin.com/in/anubhavmishra271/
 
-Try few of my Front end projects here: 
+ # Full Stack Projects: 
 
 - [NUMBER-SCRAMBLER](https://mishra-anubhav.github.io/Number-Scrambler/)
 - Tribute to Mahatma Gandhi: https://codepen.io/mishra-anubhav/full/wvwpbdB
