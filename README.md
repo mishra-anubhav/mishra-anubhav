@@ -7,10 +7,10 @@
 
 - 🎲 [NUMBER-SCRAMBLER](https://mishra-anubhav.github.io/Number-Scrambler/)
 - 🎮 [Tetris](https://mishra-anubhav.github.io/JavaScript-Tetris/)
-- <a href="https://mishra-anubhav.github.io/Universities-Report/university-nyu.html"> 🏫 NYU University</a><br>
-- <a href="https://mishra-anubhav.github.io/Universities-Report/University-columbia.html"> 🏛️ Columbia University</a><br>
-- <a href="https://mishra-anubhav.github.io/Universities-Report/university-mit.html">🎓 MIT University</a><br>
-- <a href="https://mishra-anubhav.github.io/Universities-Report/university-usc.html"> 🎒 University of Southern California</a><br>
+- 🏫 <a href="https://mishra-anubhav.github.io/Universities-Report/university-nyu.html"> NYU University</a><br>
+- 🏛️<a href="https://mishra-anubhav.github.io/Universities-Report/University-columbia.html"> Columbia University</a><br>
+- 🎓<a href="https://mishra-anubhav.github.io/Universities-Report/university-mit.html"> MIT University</a><br>
+- 🎒<a href="https://mishra-anubhav.github.io/Universities-Report/university-usc.html"> University of Southern California</a><br>
 - 🌟 [Tribute to Mahatma Gandhi:](https://codepen.io/mishra-anubhav/full/wvwpbdB)
 
 
