@@ -13,6 +13,14 @@
 - <a href="https://mishra-anubhav.github.io/Universities-Report/university-usc.html">University of Southern California</a><br>
 - [Tribute to Mahatma Gandhi:](https://codepen.io/mishra-anubhav/full/wvwpbdB)
 
+
+ # AI Projects: 
+
+ - [Microsoft Hackathon- UDub Educational Webapp](https://github.com/mishra-anubhav/AI-Hackathon)
+
+# Angular projects:
+
+- [Full App with Firebase Integration](https://github.com/mishra-anubhav/Added-Authentication-using-firebase/tree/master/app)
 <!---
 mishra-anubhav/mishra-anubhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
