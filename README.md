@@ -16,6 +16,7 @@
 
  # 🤖 AI Projects: 
 
+ - 🎮 [Gradboss OpenAI 3.5](https://gradboss-chatbot.streamlit.app/)
  - 🏆 [Microsoft Hackathon- UDub Educational Webapp](https://github.com/mishra-anubhav/AI-Hackathon)
  - 🚧 Coming soon
 
