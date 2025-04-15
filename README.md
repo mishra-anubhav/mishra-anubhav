@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anubhav Mishra, I recently graduated with a Masters from New York University.
 - 👀 I’m interested in problem-solving, coding,and Artificial Intelligence.
-- 🌱 I’m currently learning Python and mastering skills for Gen AI.
-- 📫 You can reach me via Linked - https://www.linkedin.com/in/anubhavmishra271/
+- 🌱 I’m a master in Python and Gen AI.
+- 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/anubhavmishra271/
 
  # 🚀 Full Stack Projects: 
 
