@@ -9,7 +9,7 @@
  - 🏆 [Microsoft Hackathon- UDub Educational Webapp](https://github.com/mishra-anubhav/AI-Hackathon)
  - 💻 [Supply Chain Research{Faiss}](https://github.com/mishra-anubhav/Supply-chain-initial-research)
  - 🌟 [Supply Chain Research{Pinecone and SQL Update}](coming-soon)
-
+ - 🎒[Email Classificatoin System](https://github.com/mishra-anubhav/Email-Classification-System)
  
 # 🚀 Full Stack Projects: 
 
