@@ -3,7 +3,15 @@
 - 🌱 I’m a master in Python and Gen AI.
 - 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/anubhavmishra271/
 
- # 🚀 Full Stack Projects: 
+ # 🤖 AI Projects: 
+
+ - 🎮 [Gradboss OpenAI 3.5](https://gradboss-chatbot.streamlit.app/)
+ - 🏆 [Microsoft Hackathon- UDub Educational Webapp](https://github.com/mishra-anubhav/AI-Hackathon)
+ - 💻 [Supply Chain Research{Faiss}](https://github.com/mishra-anubhav/Supply-chain-initial-research)
+ - 🌟 [Supply Chain Research{Pinecone and SQL Update}](coming-soon)
+
+ 
+# 🚀 Full Stack Projects: 
 
 - 🎲 [NUMBER-SCRAMBLER](https://mishra-anubhav.github.io/Number-Scrambler/)
 - 🎮 [Tetris](https://mishra-anubhav.github.io/JavaScript-Tetris/)
@@ -12,14 +20,6 @@
 - 🎓<a href="https://mishra-anubhav.github.io/Universities-Report/university-mit.html"> MIT University</a><br>
 - 🎒<a href="https://mishra-anubhav.github.io/Universities-Report/university-usc.html"> University of Southern California</a><br>
 - 🌟 [Tribute to Mahatma Gandhi:](https://codepen.io/mishra-anubhav/full/wvwpbdB)
-
-
- # 🤖 AI Projects: 
-
- - 🎮 [Gradboss OpenAI 3.5](https://gradboss-chatbot.streamlit.app/)
- - 🏆 [Microsoft Hackathon- UDub Educational Webapp](https://github.com/mishra-anubhav/AI-Hackathon)
- - 💻 [Supply Chain Research{Faiss}](https://github.com/mishra-anubhav/Supply-chain-initial-research)
- - 🌟 [Supply Chain Research{Pinecone and SQL Update}](coming-soon)
 
    
 # 🌐 Angular projects:
