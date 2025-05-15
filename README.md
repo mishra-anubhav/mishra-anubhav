@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anubhav Mishra.
 - 👀 I’m interested in problem-solving, coding,and Artificial Intelligence.
 - 🌱 I’m a master in Python and Gen AI.
-- 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/anubhavmishra271/
+[comment]: <> (- 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/anubhavmishra271/)
 
  # 🤖 AI Projects: 
 
